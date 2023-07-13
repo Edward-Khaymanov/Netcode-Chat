@@ -7,18 +7,18 @@ Chat system built on unity Netcode for GameObjects with command and voting suppo
 
 ## Preview
 
-![Client1](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/3e74e57b-3d6e-447b-b75d-c3fb493f14cc)
-![Client2](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/0d5ffa64-ef1f-4580-8a10-46977b36a684)
+![Client1](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/1bcfbfb8-3e77-4d2c-88e9-274e013d5ea2)
+![Client2](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/56f5ecaf-5d66-4006-9665-41d3fae488dd)
 
 ***
 
-![Client2Cringe](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/6521378d-85cc-4220-84b4-c026072dcb5f)
-![Client2Kick](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/225d5f57-d445-4c54-b59b-87c5510dacbe)
+![Client2Cringe](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/00accc9b-8b80-4c96-a2a9-9f36d442700b)
+![Client2Kick](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/dd13edc2-5190-4816-8673-cfc9d583e876)
 
 ## Configure
 In `ChatHandler` prefab you can see these options
 
-![ChatHandler](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/8cbbee46-209b-4c4a-951c-7b71a31e1c73)
+![ChatHandler](https://github.com/Edward-Khaymanov/Netcode-Chat/assets/104985307/41a786e9-22c1-43dd-b033-f90bd284148e)
 
 - SystemMessageColor - when the system sends a message, the nickname is displayed in this color
 - OwnerMessageColor - when a user sends a message, his nickname is displayed in this color
