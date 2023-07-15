@@ -36,7 +36,8 @@ namespace NetcodeChat
 
         private void OnDestroy()
         {
-            _chatHandler.MessageRecived -= AddMessage;
+            if (_chatHandler != null)
+                _chatHandler.MessageRecived -= AddMessage;
         }
 
         public void PushMessage(string message)
