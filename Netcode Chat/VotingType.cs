@@ -1,8 +1,11 @@
-﻿public enum VotingType
+﻿namespace NetcodeChat
 {
-    All,
-    ExceptTarget,
-    Half,
-    Quarter,
-    One
+    public enum VotingType
+    {
+        All,
+        ExceptTarget,
+        Half,
+        Quarter,
+        One
+    }
 }
