@@ -1,4 +1,8 @@
-[![License](https://img.shields.io/github/license/Edward-Khaymanov/Netcode-Chat?label=license&style=for-the-badge)](./LICENSE)
+<p align="center">
+    <a href="./LICENSE">
+        <img src="https://img.shields.io/github/license/Edward-Khaymanov/Netcode-Chat?label=license&style=for-the-badge">
+    </a>
+</p>
 
 # Netcode-chat
 Chat system built on unity Netcode for GameObjects with command and voting support
