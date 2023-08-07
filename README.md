@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/Edward-Khaymanov/Netcode-Chat?label=license&style=for-the-badge)](./LICENSE)
+
 # Netcode-chat
 Chat system built on unity Netcode for GameObjects with command and voting support
 
